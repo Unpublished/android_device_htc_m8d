@@ -42,7 +42,6 @@ bin/qmuxd
 bin/radish
 bin/rmt_storage
 lib/libmdmdetect.so
--lib/libril.so
 vendor/lib/libcneapiclient.so
 vendor/lib/libconfigdb.so
 vendor/lib/libnetmgr.so
